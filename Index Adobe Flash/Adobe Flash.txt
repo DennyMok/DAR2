@@ -1,0 +1,11 @@
+ section(data-bespoke-hash='Adobe-Flash')
+        fl
+          img(src='/image/logo adobe small.png')
+          box.bullet
+            h2.bullet Adobe Flash
+            hr.bullet
+            
+            p.bullet Adobe Flash merupakan sebuah program yang didesain khusus oleh Adobe dan program aplikasi standar authoring tool professional yang digunakan untuk membuat animasi dan bitmap yang sangat menarik untuk keperluan pembangunan situs web yang interaktif dan dinamis. 
+            p.bullet Flash didesain dengan kemampuan untuk membuat animasi 2 dimensi yang handal dan ringan sehingga flash banyak digunakan untuk membangun dan memberikan efek animasi pada website, CD Interaktif dan yang lainnya. Selain itu aplikasi ini juga dapat digunakan untuk membuat animasi logo, movie, game, pembuatan navigasi pada situs web, tombol animasi, banner, menu interaktif, interaktif form isian, e-card, screen saver dan pembuatan aplikasi-aplikasi web lainnya.
+        footer
+          img(src='/image/footer.png')
