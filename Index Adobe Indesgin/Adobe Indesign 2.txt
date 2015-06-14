@@ -1,0 +1,17 @@
+ section(data-bespoke-hash='Adobe-InDesign')
+        id
+          img(src='/image/logo adobe small.png')
+          box.bullet
+            h2.bullet Adobe InDesign
+            hr.bullet
+            br
+            p.bullet Adobe InDesign adalah perangkat lunak desktop publishing (DTP) yang diproduksi oleh Adobe Systems yang dapat digunakan untuk membuat poster, brosur, bahkan majalah atau buku. Desainer dan artis merupakan salah satu pengguna utama program ini.
+            p.bullet Adobe InDesign merupakan perangkat lunak canggih untuk mengatur desain tataletak media publikasi seperti koran dan majalah. Meski mampu membuat desain tataletak yang kompleks, InDesign juga dapat digunakan untuk desain yang lebih sederhana seperti iklan halaman tunggal atau brosur.
+
+        footer
+          img(src='/image/footer.png')
+  	 p 9
+          te InDesign Review example
+      
+      section(data-bespoke-hash='Adobe-Dreamweaver')
+        dw
